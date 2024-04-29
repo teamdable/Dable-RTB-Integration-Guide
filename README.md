@@ -480,8 +480,9 @@ Type ID | Name          | Description                                           
 
 - Bid Request
 
-```
-"id": "L7jjDo5mpuPP18n",
+```json
+{
+    "id": "L7jjDo5mpuPP18n",
     "imp": [{
         "id": "1",
         "tagid": "2XnA2kld#1",
@@ -571,7 +572,7 @@ Type ID | Name          | Description                                           
 
 - Bid Response
 
-```
+```json
 {
     "id": "L7jjDo5mpuPP18n",
     "bidid": "0YwPG8P7ASVwJg",
